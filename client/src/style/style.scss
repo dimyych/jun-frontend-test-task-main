@@ -1,0 +1,19 @@
+@import url(./assets/_navBar.scss);
+@import url(./assets/_participants.scss);
+@import url(./assets/_startRaceBtn.scss);
+@import url(./assets/_win.scss);
+
+body{
+    background-color: rgb(48, 48, 48);
+}
+.app{
+    position: relative;
+    min-height: 100vh;
+    
+}
+
+.chart{
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 50px;
+}
